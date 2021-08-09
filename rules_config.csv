@@ -1,0 +1,126 @@
+﻿Specialty,Level,ContentGroup,ContentDetails,HCP_Score_min,HCP_Score_max,Is_content_male,is content_female
+Anesthesiology,level1,Access/Support,Anesthesiology_Access/Support_Content_1,0,10,0,1
+Anesthesiology,level1,Access/Support,Anesthesiology_Access/Support_Content_2,10,25,0,0
+Anesthesiology,level1,Access/Support,Anesthesiology_Access/Support_Content_3,25,50,0,0
+Anesthesiology,level1,Access/Support,Anesthesiology_Access/Support_Content_4,50,70,1,0
+Anesthesiology,level1,Access/Support,Anesthesiology_Access/Support_Content_5,70,100,0,0
+Anesthesiology,level2,General Brand Info,Anesthesiology_General Brand Info_Content_1,0,10,0,0
+Anesthesiology,level2,General Brand Info,Anesthesiology_General Brand Info_Content_2,10,25,1,0
+Anesthesiology,level2,General Brand Info,Anesthesiology_General Brand Info_Content_3,25,50,0,0
+Anesthesiology,level2,General Brand Info,Anesthesiology_General Brand Info_Content_4,50,70,0,1
+Anesthesiology,level2,General Brand Info,Anesthesiology_General Brand Info_Content_5,70,100,1,0
+Anesthesiology,level3,Efficacy & Safety,Anesthesiology_Efficacy & Safety_Content_1,0,10,0,0
+Anesthesiology,level3,Efficacy & Safety,Anesthesiology_Efficacy & Safety_Content_2,10,25,1,0
+Anesthesiology,level3,Efficacy & Safety,Anesthesiology_Efficacy & Safety_Content_3,25,50,0,0
+Anesthesiology,level3,Efficacy & Safety,Anesthesiology_Efficacy & Safety_Content_4,50,70,0,0
+Anesthesiology,level3,Efficacy & Safety,Anesthesiology_Efficacy & Safety_Content_5,70,100,0,0
+Anesthesiology,level4,Diagnosis,Anesthesiology_Diagnosis_Content_1,0,10,0,1
+Anesthesiology,level4,Diagnosis,Anesthesiology_Diagnosis_Content_2,10,25,1,0
+Anesthesiology,level4,Diagnosis,Anesthesiology_Diagnosis_Content_3,25,50,0,0
+Anesthesiology,level4,Diagnosis,Anesthesiology_Diagnosis_Content_4,50,70,0,0
+Anesthesiology,level4,Diagnosis,Anesthesiology_Diagnosis_Content_5,70,100,0,0
+Anesthesiology,level5,Disease Information,Anesthesiology_Disease Information_Content_1,0,10,0,0
+Anesthesiology,level5,Disease Information,Anesthesiology_Disease Information_Content_2,10,25,1,0
+Anesthesiology,level5,Disease Information,Anesthesiology_Disease Information_Content_3,25,50,0,1
+Anesthesiology,level5,Disease Information,Anesthesiology_Disease Information_Content_4,50,70,0,0
+Anesthesiology,level5,Disease Information,Anesthesiology_Disease Information_Content_5,70,100,1,0
+Cardiology,level1,Access/Support,Cardiology_Access/Support_Content_1,0,10,0,1
+Cardiology,level1,Access/Support,Cardiology_Access/Support_Content_2,10,25,0,0
+Cardiology,level1,Access/Support,Cardiology_Access/Support_Content_3,25,50,0,0
+Cardiology,level1,Access/Support,Cardiology_Access/Support_Content_4,50,70,1,0
+Cardiology,level1,Access/Support,Cardiology_Access/Support_Content_5,70,100,0,0
+Cardiology,level2,General Brand Info,Cardiology_General Brand Info_Content_1,0,10,0,0
+Cardiology,level2,General Brand Info,Cardiology_General Brand Info_Content_2,10,25,1,0
+Cardiology,level2,General Brand Info,Cardiology_General Brand Info_Content_3,25,50,0,0
+Cardiology,level2,General Brand Info,Cardiology_General Brand Info_Content_4,50,70,0,1
+Cardiology,level2,General Brand Info,Cardiology_General Brand Info_Content_5,70,100,1,0
+Cardiology,level3,Efficacy & Safety,Cardiology_Efficacy & Safety_Content_1,0,10,0,0
+Cardiology,level3,Efficacy & Safety,Cardiology_Efficacy & Safety_Content_2,10,25,1,0
+Cardiology,level3,Efficacy & Safety,Cardiology_Efficacy & Safety_Content_3,25,50,0,0
+Cardiology,level3,Efficacy & Safety,Cardiology_Efficacy & Safety_Content_4,50,70,0,0
+Cardiology,level3,Efficacy & Safety,Cardiology_Efficacy & Safety_Content_5,70,100,0,0
+Cardiology,level4,Diagnosis,Cardiology_Diagnosis_Content_1,0,10,0,1
+Cardiology,level4,Diagnosis,Cardiology_Diagnosis_Content_2,10,25,1,0
+Cardiology,level4,Diagnosis,Cardiology_Diagnosis_Content_3,25,50,0,0
+Cardiology,level4,Diagnosis,Cardiology_Diagnosis_Content_4,50,70,0,0
+Cardiology,level4,Diagnosis,Cardiology_Diagnosis_Content_5,70,100,0,0
+Cardiology,level5,Disease Information,Cardiology_Disease Information_Content_1,0,10,0,0
+Cardiology,level5,Disease Information,Cardiology_Disease Information_Content_2,10,25,1,0
+Cardiology,level5,Disease Information,Cardiology_Disease Information_Content_3,25,50,0,1
+Cardiology,level5,Disease Information,Cardiology_Disease Information_Content_4,50,70,0,0
+Cardiology,level5,Disease Information,Cardiology_Disease Information_Content_5,70,100,1,0
+Ophthalmology,level1,Access/Support,Ophthalmology_Access/Support_Content_1,0,10,0,1
+Ophthalmology,level1,Access/Support,Ophthalmology_Access/Support_Content_2,10,25,0,0
+Ophthalmology,level1,Access/Support,Ophthalmology_Access/Support_Content_3,25,50,0,0
+Ophthalmology,level1,Access/Support,Ophthalmology_Access/Support_Content_4,50,70,1,0
+Ophthalmology,level1,Access/Support,Ophthalmology_Access/Support_Content_5,70,100,0,0
+Ophthalmology,level2,General Brand Info,Ophthalmology_General Brand Info_Content_1,0,10,0,0
+Ophthalmology,level2,General Brand Info,Ophthalmology_General Brand Info_Content_2,10,25,1,0
+Ophthalmology,level2,General Brand Info,Ophthalmology_General Brand Info_Content_3,25,50,0,0
+Ophthalmology,level2,General Brand Info,Ophthalmology_General Brand Info_Content_4,50,70,0,1
+Ophthalmology,level2,General Brand Info,Ophthalmology_General Brand Info_Content_5,70,100,1,0
+Ophthalmology,level3,Efficacy & Safety,Ophthalmology_Efficacy & Safety_Content_1,0,10,0,0
+Ophthalmology,level3,Efficacy & Safety,Ophthalmology_Efficacy & Safety_Content_2,10,25,1,0
+Ophthalmology,level3,Efficacy & Safety,Ophthalmology_Efficacy & Safety_Content_3,25,50,0,0
+Ophthalmology,level3,Efficacy & Safety,Ophthalmology_Efficacy & Safety_Content_4,50,70,0,0
+Ophthalmology,level3,Efficacy & Safety,Ophthalmology_Efficacy & Safety_Content_5,70,100,0,0
+Ophthalmology,level4,Diagnosis,Ophthalmology_Diagnosis_Content_1,0,10,0,1
+Ophthalmology,level4,Diagnosis,Ophthalmology_Diagnosis_Content_2,10,25,1,0
+Ophthalmology,level4,Diagnosis,Ophthalmology_Diagnosis_Content_3,25,50,0,0
+Ophthalmology,level4,Diagnosis,Ophthalmology_Diagnosis_Content_4,50,70,0,0
+Ophthalmology,level4,Diagnosis,Ophthalmology_Diagnosis_Content_5,70,100,0,0
+Ophthalmology,level5,Disease Information,Ophthalmology_Disease Information_Content_1,0,10,0,0
+Ophthalmology,level5,Disease Information,Ophthalmology_Disease Information_Content_2,10,25,1,0
+Ophthalmology,level5,Disease Information,Ophthalmology_Disease Information_Content_3,25,50,0,1
+Ophthalmology,level5,Disease Information,Ophthalmology_Disease Information_Content_4,50,70,0,0
+Ophthalmology,level5,Disease Information,Ophthalmology_Disease Information_Content_5,70,100,1,0
+Pediatrics,level1,Access/Support,Pediatrics_Access/Support_Content_1,0,10,0,1
+Pediatrics,level1,Access/Support,Pediatrics_Access/Support_Content_2,10,25,0,0
+Pediatrics,level1,Access/Support,Pediatrics_Access/Support_Content_3,25,50,0,0
+Pediatrics,level1,Access/Support,Pediatrics_Access/Support_Content_4,50,70,1,0
+Pediatrics,level1,Access/Support,Pediatrics_Access/Support_Content_5,70,100,0,0
+Pediatrics,level2,General Brand Info,Pediatrics_General Brand Info_Content_1,0,10,0,0
+Pediatrics,level2,General Brand Info,Pediatrics_General Brand Info_Content_2,10,25,1,0
+Pediatrics,level2,General Brand Info,Pediatrics_General Brand Info_Content_3,25,50,0,0
+Pediatrics,level2,General Brand Info,Pediatrics_General Brand Info_Content_4,50,70,0,1
+Pediatrics,level2,General Brand Info,Pediatrics_General Brand Info_Content_5,70,100,1,0
+Pediatrics,level3,Efficacy & Safety,Pediatrics_Efficacy & Safety_Content_1,0,10,0,0
+Pediatrics,level3,Efficacy & Safety,Pediatrics_Efficacy & Safety_Content_2,10,25,1,0
+Pediatrics,level3,Efficacy & Safety,Pediatrics_Efficacy & Safety_Content_3,25,50,0,0
+Pediatrics,level3,Efficacy & Safety,Pediatrics_Efficacy & Safety_Content_4,50,70,0,0
+Pediatrics,level3,Efficacy & Safety,Pediatrics_Efficacy & Safety_Content_5,70,100,0,0
+Pediatrics,level4,Diagnosis,Pediatrics_Diagnosis_Content_1,0,10,0,1
+Pediatrics,level4,Diagnosis,Pediatrics_Diagnosis_Content_2,10,25,1,0
+Pediatrics,level4,Diagnosis,Pediatrics_Diagnosis_Content_3,25,50,0,0
+Pediatrics,level4,Diagnosis,Pediatrics_Diagnosis_Content_4,50,70,0,0
+Pediatrics,level4,Diagnosis,Pediatrics_Diagnosis_Content_5,70,100,0,0
+Pediatrics,level5,Disease Information,Pediatrics_Disease Information_Content_1,0,10,0,0
+Pediatrics,level5,Disease Information,Pediatrics_Disease Information_Content_2,10,25,1,0
+Pediatrics,level5,Disease Information,Pediatrics_Disease Information_Content_3,25,50,0,1
+Pediatrics,level5,Disease Information,Pediatrics_Disease Information_Content_4,50,70,0,0
+Pediatrics,level5,Disease Information,Pediatrics_Disease Information_Content_5,70,100,1,0
+Psychiatry,level1,Access/Support,Psychiatry_Access/Support_Content_1,0,10,0,1
+Psychiatry,level1,Access/Support,Psychiatry_Access/Support_Content_2,10,25,0,0
+Psychiatry,level1,Access/Support,Psychiatry_Access/Support_Content_3,25,50,0,0
+Psychiatry,level1,Access/Support,Psychiatry_Access/Support_Content_4,50,70,1,0
+Psychiatry,level1,Access/Support,Psychiatry_Access/Support_Content_5,70,100,0,0
+Psychiatry,level2,General Brand Info,Psychiatry_General Brand Info_Content_1,0,10,0,0
+Psychiatry,level2,General Brand Info,Psychiatry_General Brand Info_Content_2,10,25,1,0
+Psychiatry,level2,General Brand Info,Psychiatry_General Brand Info_Content_3,25,50,0,0
+Psychiatry,level2,General Brand Info,Psychiatry_General Brand Info_Content_4,50,70,0,1
+Psychiatry,level2,General Brand Info,Psychiatry_General Brand Info_Content_5,70,100,1,0
+Psychiatry,level3,Efficacy & Safety,Psychiatry_Efficacy & Safety_Content_1,0,10,0,0
+Psychiatry,level3,Efficacy & Safety,Psychiatry_Efficacy & Safety_Content_2,10,25,1,0
+Psychiatry,level3,Efficacy & Safety,Psychiatry_Efficacy & Safety_Content_3,25,50,0,0
+Psychiatry,level3,Efficacy & Safety,Psychiatry_Efficacy & Safety_Content_4,50,70,0,0
+Psychiatry,level3,Efficacy & Safety,Psychiatry_Efficacy & Safety_Content_5,70,100,0,0
+Psychiatry,level4,Diagnosis,Psychiatry_Diagnosis_Content_1,0,10,0,1
+Psychiatry,level4,Diagnosis,Psychiatry_Diagnosis_Content_2,10,25,1,0
+Psychiatry,level4,Diagnosis,Psychiatry_Diagnosis_Content_3,25,50,0,0
+Psychiatry,level4,Diagnosis,Psychiatry_Diagnosis_Content_4,50,70,0,0
+Psychiatry,level4,Diagnosis,Psychiatry_Diagnosis_Content_5,70,100,0,0
+Psychiatry,level5,Disease Information,Psychiatry_Disease Information_Content_1,0,10,0,0
+Psychiatry,level5,Disease Information,Psychiatry_Disease Information_Content_2,10,25,1,0
+Psychiatry,level5,Disease Information,Psychiatry_Disease Information_Content_3,25,50,0,1
+Psychiatry,level5,Disease Information,Psychiatry_Disease Information_Content_4,50,70,0,0
+Psychiatry,level5,Disease Information,Psychiatry_Disease Information_Content_5,70,100,1,0
