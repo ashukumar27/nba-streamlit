@@ -79,7 +79,7 @@ st.write(df.head())
 
 ## Content Config
 
-@cache
+@st.cache
 def read_data(filepath):
 	df = pd.read_csv(filepath)
 	return df
