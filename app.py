@@ -7,7 +7,7 @@ from PIL import Image
 st.write("""
 ## NEXT BEST ACTION: HEALTHCARE
 	""")
-expander_bar = st.beta_expander("About")
+expander_bar = st.expander("About")
 expander_bar.markdown("""
 This app takes HCP parameters as inputs along with a rules configuration file, and predicts the Next Best Action for each individual HCP.
 
@@ -79,11 +79,16 @@ st.write(df.head())
 
 ## Content Config
 
+@cache
+def read_data(filepath):
+	df = pd.read_csv(filepath)
+	return df
+
 if rules_file is not None:
 	rules_df = pd.read_csv(rules_file)
 else:
 	filepath = "rules_config.csv"
-	rules_df = pd.read_csv(filepath)
+	rules_df = read_data(filepath)
 
 
 filtered = rules_df.loc[(rules_df['Specialty']==specialty) & (rules_df['ContentGroup']==lifestage) & (rules_df['HCP_Score_min']<hcp_score) & (rules_df['HCP_Score_max']>=hcp_score)]
